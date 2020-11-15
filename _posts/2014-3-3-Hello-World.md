@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Урок 7 (Функции)
+title: Python: Урок #7 (Функции)
 ---
 
 На этом уроке познакомимся с основными понятиями языка Python, необходимыми для работы.
 
-[## Запись урока](https://us02web.zoom.us/rec/share/ZbNb--QaQKDeiTJRxjH34KBlDDU2riBd5lYhSC1ckiHyQhS1owD7V0rKv0nfE2PB.VJkzxgBAbkOODWac?startTime=1605349725000)
+[Запись урока](https://us02web.zoom.us/rec/share/ZbNb--QaQKDeiTJRxjH34KBlDDU2riBd5lYhSC1ckiHyQhS1owD7V0rKv0nfE2PB.VJkzxgBAbkOODWac?startTime=1605349725000)
 
 ## Программные коды:
 [Cсылка #1](https://repl.it/@NikolaiPutko/NoReturnFunctions#main.py)
