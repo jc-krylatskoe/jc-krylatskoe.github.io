@@ -1,7 +1,11 @@
 ---
 layout: post
 title: You're up and running!
+title: Первый урок по Python
 ---
+
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+# Первый урок по Python
 
 На этом уроке познакомимся с основными понятиями языка Python, необходимыми для работы.
 
