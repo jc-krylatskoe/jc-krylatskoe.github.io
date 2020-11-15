@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Для чего этот сайт?
 
-### More Information
+Здесь публикуем материалы, пройденные во время занятий в школе программирование "ЮниорКод"
 
-A place to include any other types of information that you'd like to include about yourself.
+### ЮниорКод Крылатское:
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[education_krylatskoe@juniorcode.ru(mailto:education_krylatskoe@juniorcode.ru)
+[+7 915 035 35 67(tel: +79150353567)
