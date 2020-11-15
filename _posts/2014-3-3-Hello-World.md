@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python: Урок #1 (Введение в Python)
+title: You're up and running!
 ---
 
 На этом уроке познакомимся с основными понятиями языка Python, необходимыми для работы.
