@@ -3,6 +3,4 @@
 В этой репозитории размещаем код для веб-сайта с учебными материалами школы программирования Юниоркод.\
 Для удобства учеников и преподавателей, веб-сайт сделан в виде блога.
 
-
-
-[logo]: https://user-images.githubusercontent.com/60174786/99228355-8d8d7800-27fd-11eb-9497-ef672c85483a.png "JuniorCode"
+![alt text](https://user-images.githubusercontent.com/60174786/99228355-8d8d7800-27fd-11eb-9497-ef672c85483a.png "JuniorCode")
