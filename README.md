@@ -4,4 +4,4 @@
 Для удобства учеников и преподавателей, веб-сайт сделан в виде блога.
 <br></br>
 <br></br>
-![alt text](https://user-images.githubusercontent.com/60174786/99228355-8d8d7800-27fd-11eb-9497-ef672c85483a.png "JuniorCode")
+![alt text](https://user-images.githubusercontent.com/60174786/99256447-7adb6900-2826-11eb-83b8-86c8a372d96a.png "JuniorCode")
