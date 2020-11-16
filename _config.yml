@@ -9,10 +9,8 @@ name: ЮниорКод
 description: Школа программирования
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-# jekyll-logo.png
-# uk-logo.png
-# https://juniorcode.ru/images/system/logo-white.svg
+avatar: https://user-images.githubusercontent.com/60174786/99229496-27095980-27ff-11eb-833f-627403b4d8cf.png
+# https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
