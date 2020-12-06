@@ -5,6 +5,13 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
+  <span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>
+  {% endfor %}
+  ]</span>
+
   <div class="entry">
     {{ content }}
   </div>
@@ -12,13 +19,6 @@ layout: default
   <div class="date">
     Добавлено {{ page.date | date: "%d.%m.%Y" }}
   </div>
-  
-  <span>[
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>
-  {% endfor %}
-  ]</span>
 
   {% include disqus.html %}
   
