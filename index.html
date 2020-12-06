@@ -4,7 +4,7 @@ layout: default
 
 
 <div class="posts">
-  {% assign sortedPosts = site.posts | sort: 'date' %}
+  {% assign sortedPosts = site.posts | sort: 'date' | reverse %}
   {% for post in sortedPosts %}
     <article class="post">
 
